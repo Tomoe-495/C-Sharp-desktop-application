@@ -12,3 +12,17 @@ D:\Users\Administrator\Desktop\grandmasala\obj\Debug\GrandMasala.csproj.CoreComp
 D:\Users\Administrator\Desktop\grandmasala\obj\Debug\GrandMasala.exe
 D:\Users\Administrator\Desktop\grandmasala\obj\Debug\GrandMasala.pdb
 D:\Users\Administrator\Desktop\grandmasala\bin\Debug\GrandMasala.pdb
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\bin\Debug\GrandMasala.exe.config
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\bin\Debug\GrandMasala.exe
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\bin\Debug\GrandMasala.pdb
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.csproj.AssemblyReference.cache
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.csproj.SuggestedBindingRedirects.cache
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.AddCategory.resources
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.AddProduct.resources
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.AdminDashboard.resources
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.Form1.resources
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.Properties.Resources.resources
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.csproj.GenerateResource.cache
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.exe
+D:\Users\Administrator\Desktop\New folder\C-Sharp-desktop-application\GrandMasala\obj\Debug\GrandMasala.pdb
